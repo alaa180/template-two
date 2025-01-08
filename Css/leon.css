@@ -467,13 +467,13 @@ body {
 
 @media (max-width: 767px) {
 
-  .contact .contact-content p,
-  .contact .contact-content a {
+  .contact .contact-content p{
     font-size: 20px;
   }
-
+  .contact .contact-content a {
+   font-size: 16px;
 }
-
+}
 .contact .contact-content .social {
   text-align: center;
   letter-spacing: 1.5px;
